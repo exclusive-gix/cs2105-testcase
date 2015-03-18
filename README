@@ -1,0 +1,7 @@
+# How to Run the Tests
+Import Checksum.java, UnreliNET.java, ReliableNetworkTests.java and UnreliableNetworkTests.java into your IDE.
+Copy doge.jpg and rc.jpg into the project root folder.
+
+You will need to add a function "close" to FileReceiver. This function should close the socket of FileReceiver.
+
+
